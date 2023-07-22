@@ -1,0 +1,8 @@
+C:\Users\thora\source\repos\CollectionProblem\CollectionProblem\bin\Debug\CollectionProblem.exe.config
+C:\Users\thora\source\repos\CollectionProblem\CollectionProblem\bin\Debug\CollectionProblem.exe
+C:\Users\thora\source\repos\CollectionProblem\CollectionProblem\bin\Debug\CollectionProblem.pdb
+C:\Users\thora\source\repos\CollectionProblem\CollectionProblem\obj\Debug\CollectionProblem.csproj.AssemblyReference.cache
+C:\Users\thora\source\repos\CollectionProblem\CollectionProblem\obj\Debug\CollectionProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\thora\source\repos\CollectionProblem\CollectionProblem\obj\Debug\CollectionProblem.csproj.CoreCompileInputs.cache
+C:\Users\thora\source\repos\CollectionProblem\CollectionProblem\obj\Debug\CollectionProblem.exe
+C:\Users\thora\source\repos\CollectionProblem\CollectionProblem\obj\Debug\CollectionProblem.pdb
